@@ -3,7 +3,7 @@
 ---
 portage:
   sync_wait_one_day: true
-TEMPLATE:
+bigbluebutton:
   pkg:
     name: 'app-shells/bash'
   service:

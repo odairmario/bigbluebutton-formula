@@ -1,0 +1,18 @@
+# -*- coding: utf-8 -*-
+# vim: ft=yaml
+#
+# Set default values.
+---
+values:
+  pkg:
+    name: bigbluebutton
+  rootgroup: root
+  config: '/etc/bigbluebutton'
+  service:
+    name: bigbluebutton
+  subcomponent:
+    config: '/etc/bigbluebutton-subcomponent-formula.conf'
+  # Just here for testing
+  added_in_defaults: defaults_value
+  winner: defaults
+...
